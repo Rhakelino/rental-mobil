@@ -6,7 +6,7 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "rental_mobil_db"
-database_id = "local-d1-db"
+database_id = "f921a0b8-a229-4eaa-bdd5-bd10d3e4ac4d"
 migrations_dir = "server/db/migrations"
 
 [env.production]
